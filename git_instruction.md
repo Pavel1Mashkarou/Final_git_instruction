@@ -13,7 +13,27 @@ Git — это лучшее решение для большинства ком�
 ![Логотип Git](git.png)
 ***
 ## Список консольных команд
+<<<<<<< HEAD
 Рассмотрим наиболее часто используемые команды Git:
 
+=======
+
+    git status
+    git init 
+    git add <file_name>
+    git commit
+    git commit -m <message>
+    git commit -am <message>
+    git diff
+    git diff <hash1> <hash2>
+    git log
+    git log --oneline
+    git log --all
+    git log --all --oneline
+    git log --graph
+    git checkout <hash>
+    git checkout master
+    
+>>>>>>> console
 ## Ветвление
 ## Заключение
